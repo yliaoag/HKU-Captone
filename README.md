@@ -8,4 +8,9 @@ Online docs:https://www.dropbox.com/scl/fi/zz8ccrotmif4yf3ldvn93/MscAI-Capstone-
 2. PMA: Premarket approval (PMA) is the FDA process of scientific and regulatory review to evaluate the safety and effectiveness of Class III medical devices.(https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-approval-pma)
 
 ### Patentsview
-1. CPC: 
+1. CPC: Cooperative Patent Classification, CPC is the name of the new patent classification system jointly developed by the EPO and USPTO launched in 2010. At the EPO, the CPC replaces the ECLA classification scheme, and at the USPTO it replaces the USPC scheme.
+2. USPC: U.S. Patent Classification, basically another patent classification scheme.
+3. NBER: National Bureau of Economic Research, another patent classification scheme.
+
+According to the below image, should basically using CPC and IPC system.
+<img width="716" alt="availability table" src="https://github.com/TiaolyuShi/HKU-Captone/assets/81952160/48852bff-64f4-49e1-b8f8-2121136d021f">
