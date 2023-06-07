@@ -14,3 +14,17 @@ Online docs:https://www.dropbox.com/scl/fi/zz8ccrotmif4yf3ldvn93/MscAI-Capstone-
 
 According to the below image, should basically using CPC and IPC system.
 <img width="716" alt="availability table" src="https://github.com/TiaolyuShi/HKU-Captone/assets/81952160/48852bff-64f4-49e1-b8f8-2121136d021f">
+
+## Timeline
+### 23/5/19
+1. Literature review and reconsider the framework
+2. How to obtain the data?
+    patents data: from patentsview using API
+    (Test case passed.)
+    products/devices data: combine fda-510k and device classification together to get more detailed description
+
+3. How to link patents with products?
+    products to patents: Using applicants' name to match several patents
+    patents to products: The device classification dataset contains the device type, which is a clustering itself. We are trying to use the patents' abstract to match wiki-based description of certain device types. The idea comes from Argente D, et al. Patents to products: Product innovation and firm dynamics[J]. 2020. 
+
+### 23/6/7
