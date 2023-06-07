@@ -18,7 +18,7 @@ According to the below image, should basically using CPC and IPC system.
 ## Timeline
 ### 23/5/19
 1. Literature review and reconsider the framework
-2. How to obtain the data?
+2. Data perspective: How to obtain the data?
     patents data: from patentsview using API
     (Test case passed.)
     products/devices data: combine fda-510k and device classification together to get more detailed description
